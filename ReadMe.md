@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on creating new web apps<br>👯 I’m looking to collaborate on Web dev, Penetration testing<br>🤝 I’m looking for help with Web dev <br>🌱 I’m currently learning Reverse engineering<br>💬 Ask me about my hacking history<br>⚡ Fun fact I go to gym
+♦️I'm interested in Pentesting (Red teaming)<br>🧊I also do 3D modeling 
+<br>🔷I like to teach about security (Blue teaming)
+<br>👨‍💻I'm working on webdev<br>📲I'm currently learning about Social engineering and hacking in real world
+<br>🌐I also work with servers and networking <br>💬Ask me about my hacking history
+<br>📙I'm learning new things avery day 
 
 
 ## 🌐 Socials:
