@@ -1,9 +1,7 @@
 # 💫 About Me:
-♦️I'm interested in Pentesting (Red teaming)<br>🧊I also do 3D modeling 
-<br>🔷I like to teach about security (Blue teaming)
-<br>👨‍💻I'm working on webdev<br>📲I'm currently learning about Social engineering and hacking in real world
-<br>🌐I also work with servers and networking <br>💬Ask me about my hacking history
-<br>📙I'm learning new things avery day 
+♦️I work as Penetration tester and Web App developer<br>🔷 I like to teach about security
+<br>💬Contact me if you need something
+ 
 
 
 ## 🌐 Socials:
